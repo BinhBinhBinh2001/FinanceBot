@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+pandas
+gspread
+oauth2client
+pytz
+python-dotenv
